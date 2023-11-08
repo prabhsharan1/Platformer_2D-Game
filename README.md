@@ -26,13 +26,6 @@ Build and run the game using an appropriate C development environment.
 
 - [Raylib](https://www.raylib.com/) - A C library for video game development.
 
-## Screenshots
-
-![Screenshot 1](img/platform1.png)
-*Description of the screenshot.*
-
-![Screenshot 2](img/platform2.png)
-*Description of the screenshot.*
 
 ## Contributing
 
@@ -40,18 +33,18 @@ Contributions are welcome. Feel free to submit [issues](#issues), [pull requests
 
 ### Issues
 
-If you encounter any issues, please [create a new issue](link-to-issue-tracker) on our issue tracker.
+If you encounter any issues, please create a new issue on our issue tracker.
 
 ### Pull Requests
 
-If you'd like to contribute code, please submit a [pull request](link-to-pull-requests).
+If you'd like to contribute code, please submit a pull request.
 
 ### Suggestions
 
-If you have any suggestions for improving the game, please [get in touch](link-to-contact).
+If you have any suggestions for improving the game.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
 
 Enjoy playing the 2D platformer game!
